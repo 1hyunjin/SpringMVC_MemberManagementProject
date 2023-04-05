@@ -13,5 +13,5 @@
 
 ---
 
-notion : https://leah-space.notion.site/0688f8bc024742ff8edb0e6493c883f6
-강의 :  https://www.inflearn.com/course/스프링-핵심-원리-기본편/dashboard
+#### notion : https://leah-space.notion.site/0688f8bc024742ff8edb0e6493c883f6
+#### 강의 :  https://www.inflearn.com/course/스프링-핵심-원리-기본편/dashboard
